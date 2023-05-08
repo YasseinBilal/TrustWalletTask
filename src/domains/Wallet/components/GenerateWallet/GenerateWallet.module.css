@@ -1,0 +1,15 @@
+.title {
+  font-size: 20px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.button {
+  background-color: #3375BB;
+  color: white;
+  font-size: 16px;
+  padding: 8px 16px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+}
